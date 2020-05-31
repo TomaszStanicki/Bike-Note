@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="go_to_tank_form_button" type="id" />
+    <item name="red" type="id"></item>
+</resources>
